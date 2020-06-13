@@ -4,3 +4,4 @@ This is the project repositoryof ECE228 Group 15. We attempted the Kaggle challe
 Training and test datasets should be downloaded first to run the code. 
 ## Project notebooks
 We attempted SVM, and transfer learning models with four models. Each model is written in a single jupyter notebook.
+To run the code, make the downloaded /images folder is in the same directory as the notebook
